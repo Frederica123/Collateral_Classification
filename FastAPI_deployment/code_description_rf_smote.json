@@ -1,0 +1,78 @@
+﻿[
+        {
+            "Collateral Code": " 1",
+            "Collateral Code Description": "equipment"
+        },
+        {
+            "Collateral Code": " 2",
+            "Collateral Code Description": "fixtures"
+        },
+        {
+            "Collateral Code": " 3",
+            "Collateral Code Description": "inventory"
+        },
+        {
+            "Collateral Code": " 4",
+            "Collateral Code Description": "gen intangibles"
+        },
+        {
+            "Collateral Code": " 5",
+            "Collateral Code Description": "chattel paper"
+        },
+        {
+            "Collateral Code": " 6",
+            "Collateral Code Description": "contract rights"
+        },
+        {
+            "Collateral Code": " 7",
+            "Collateral Code Description": "accts receivable"
+        },
+        {
+            "Collateral Code": " 8",
+            "Collateral Code Description": "computer equipment"
+        },
+        {
+            "Collateral Code": " 9",
+            "Collateral Code Description": "machinery"
+        },
+        {
+            "Collateral Code": "10",
+            "Collateral Code Description": "bus mach/equip"
+        },
+        {
+            "Collateral Code": "12",
+            "Collateral Code Description": "negotiable instrument"
+        },
+        {
+            "Collateral Code": "14",
+            "Collateral Code Description": "vehicles"
+        },
+        {
+            "Collateral Code": "15",
+            "Collateral Code Description": "const equip/mach"
+        },
+        {
+            "Collateral Code": "16",
+            "Collateral Code Description": "agr equip"
+        },
+        {
+            "Collateral Code": "17",
+            "Collateral Code Description": "assets"
+        },
+        {
+            "Collateral Code": "18",
+            "Collateral Code Description": "accounts"
+        },
+        {
+            "Collateral Code": "24",
+            "Collateral Code Description": "industrial equip/mach"
+        },
+        {
+            "Collateral Code": "28",
+            "Collateral Code Description": "comm equipment"
+        },
+        {
+            "Collateral Code": "34",
+            "Collateral Code Description": "proceeds"
+        }
+]

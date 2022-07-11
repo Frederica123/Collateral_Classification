@@ -1,0 +1,26 @@
+﻿[
+        {
+            "Collateral Code": " 2",
+            "Collateral Code Description": "fixtures"
+        },
+        {
+            "Collateral Code": " 5",
+            "Collateral Code Description": "chattel paper"
+        },
+        {
+            "Collateral Code": "17",
+            "Collateral Code Description": "assets"
+        },
+        {
+            "Collateral Code": "18",
+            "Collateral Code Description": "accounts"
+        },
+        {
+            "Collateral Code": "24",
+            "Collateral Code Description": "industrial equip/mach"
+        },
+        {
+            "Collateral Code": "28",
+            "Collateral Code Description": "comm equipment"
+        }
+]

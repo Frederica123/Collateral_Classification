@@ -1,0 +1,178 @@
+﻿[
+        {
+            "Collateral Code": " 1",
+            "Collateral Code Description": "equipment"
+        },
+        {
+            "Collateral Code": " 2",
+            "Collateral Code Description": "fixtures"
+        },
+        {
+            "Collateral Code": " 3",
+            "Collateral Code Description": "inventory"
+        },
+        {
+            "Collateral Code": " 4",
+            "Collateral Code Description": "gen intangibles"
+        },
+        {
+            "Collateral Code": " 5",
+            "Collateral Code Description": "chattel paper"
+        },
+        {
+            "Collateral Code": " 6",
+            "Collateral Code Description": "contract rights"
+        },
+        {
+            "Collateral Code": " 7",
+            "Collateral Code Description": "accts receivable"
+        },
+        {
+            "Collateral Code": " 8",
+            "Collateral Code Description": "computer equipment"
+        },
+        {
+            "Collateral Code": " 9",
+            "Collateral Code Description": "machinery"
+        },
+        {
+            "Collateral Code": "10",
+            "Collateral Code Description": "bus mach/equip"
+        },
+        {
+            "Collateral Code": "11",
+            "Collateral Code Description": "unspecified"
+        },
+        {
+            "Collateral Code": "12",
+            "Collateral Code Description": "negotiable instrument"
+        },
+        {
+            "Collateral Code": "13",
+            "Collateral Code Description": "farm prod/crops"
+        },
+        {
+            "Collateral Code": "14",
+            "Collateral Code Description": "vehicles"
+        },
+        {
+            "Collateral Code": "15",
+            "Collateral Code Description": "const equip/mach"
+        },
+        {
+            "Collateral Code": "16",
+            "Collateral Code Description": "agr equip"
+        },
+        {
+            "Collateral Code": "17",
+            "Collateral Code Description": "assets"
+        },
+        {
+            "Collateral Code": "18",
+            "Collateral Code Description": "accounts"
+        },
+        {
+            "Collateral Code": "19",
+            "Collateral Code Description": "notes receivable"
+        },
+        {
+            "Collateral Code": "20",
+            "Collateral Code Description": "consigned merchandise"
+        },
+        {
+            "Collateral Code": "21",
+            "Collateral Code Description": "buildings"
+        },
+        {
+            "Collateral Code": "22",
+            "Collateral Code Description": "real properly"
+        },
+        {
+            "Collateral Code": "23",
+            "Collateral Code Description": "as specified"
+        },
+        {
+            "Collateral Code": "24",
+            "Collateral Code Description": "industrial equip/mach"
+        },
+        {
+            "Collateral Code": "25",
+            "Collateral Code Description": "timber"
+        },
+        {
+            "Collateral Code": "26",
+            "Collateral Code Description": "livestock"
+        },
+        {
+            "Collateral Code": "27",
+            "Collateral Code Description": "bld materials"
+        },
+        {
+            "Collateral Code": "28",
+            "Collateral Code Description": "comm equipment"
+        },
+        {
+            "Collateral Code": "29",
+            "Collateral Code Description": "oil,gas,and minerals"
+        },
+        {
+            "Collateral Code": "30",
+            "Collateral Code Description": "aqua culture stock"
+        },
+        {
+            "Collateral Code": "31",
+            "Collateral Code Description": "textile goods"
+        },
+        {
+            "Collateral Code": "32",
+            "Collateral Code Description": "trans equip"
+        },
+        {
+            "Collateral Code": "33",
+            "Collateral Code Description": "products"
+        },
+        {
+            "Collateral Code": "34",
+            "Collateral Code Description": "proceeds"
+        },
+        {
+            "Collateral Code": "35",
+            "Collateral Code Description": "products&proceeds"
+        },
+        {
+            "Collateral Code": "37",
+            "Collateral Code Description": "all assets"
+        },
+        {
+            "Collateral Code": "36",
+            "Collateral Code Description": "is undefined at this time- value is null"
+        },
+        {
+            "Collateral Code": "38",
+            "Collateral Code Description": "capital stock"
+        },
+        {
+            "Collateral Code": "39",
+            "Collateral Code Description": "prtnshp interest"
+        },
+        {
+            "Collateral Code": "40",
+            "Collateral Code Description": "mobile homes"
+        },
+        {
+            "Collateral Code": "41",
+            "Collateral Code Description": "after aquired property"
+        },
+        {
+            "Collateral Code": "42",
+            "Collateral Code Description": "Co-Operation"
+        },
+        {
+            "Collateral Code": "95",
+            "Collateral Code Description": "No idea"
+        },
+        {
+            "Collateral Code": "99",
+            "Collateral Code Description": "Other"
+        }
+]

@@ -1,0 +1,18 @@
+﻿[
+        {
+            "Collateral Code": " 1",
+            "Collateral Code Description": "equipment"
+        },
+        {
+            "Collateral Code": " 8",
+            "Collateral Code Description": "computer equipment"
+        },
+        {
+            "Collateral Code": "10",
+            "Collateral Code Description": "bus mach/equip"
+        },
+        {
+            "Collateral Code": "15",
+            "Collateral Code Description": "const equip/mach"
+        }
+]

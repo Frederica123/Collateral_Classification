@@ -1,0 +1,38 @@
+﻿[
+    {
+        "Collateral Code": " 3",
+        "Collateral Code Description": "inventory"
+    },
+    {
+        "Collateral Code": " 4",
+        "Collateral Code Description": "gen intangibles"
+    },
+    {
+        "Collateral Code": " 6",
+        "Collateral Code Description": "contract rights"
+    },
+    {
+        "Collateral Code": " 7",
+        "Collateral Code Description": "accts receivable"
+    },
+    {
+        "Collateral Code": " 9",
+        "Collateral Code Description": "machinery"
+    },
+    {
+        "Collateral Code": "12",
+        "Collateral Code Description": "negotiable instrument"
+    },
+    {
+        "Collateral Code": "14",
+        "Collateral Code Description": "vehicles"
+    },
+    {
+        "Collateral Code": "16",
+        "Collateral Code Description": "agr equip"
+    },
+    {
+        "Collateral Code": "34",
+        "Collateral Code Description": "proceeds"
+    }
+]

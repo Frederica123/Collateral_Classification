@@ -1,0 +1,10 @@
+[{
+    "description_rf_smote":"code_description_rf_smote.json",
+    "description_large":"code_description_large.json",
+    "description_medium":"code_description_medium.json",
+    "description_small":"code_description_small.json",
+    "randomforest_smote_joblib":"random_forest_smote_token_6.joblib",
+    "large_joblib":"random_forest_token_6_large_15k_sentence-transformers_all-MiniLM-L6-v2.joblib",
+    "medium_joblib":"SVM_token_6_medium_1k_sentence-transformers_all-MiniLM-L6-v2.joblib",
+    "small_joblib":"SVM_token_6_small_100_sentence-transformers_all-MiniLM-L6-v2.joblib"
+}]
